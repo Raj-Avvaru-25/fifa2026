@@ -1,0 +1,58 @@
+{
+  "champion": {
+    "name": "Argentina",
+    "rationale": "Reigning champions with the best balance and form."
+  },
+  "dark_horse": {
+    "name": "Croatia",
+    "rationale": "Battle-tested core that always overperforms in knockouts."
+  },
+  "finalists": [
+    "Argentina",
+    "Netherlands"
+  ],
+  "generated_at": "2026-06-15T18:21:49.022757+00:00",
+  "golden_boot": {
+    "name": "Julián Álvarez",
+    "rationale": "Leads a high-scoring side and takes the penalties."
+  },
+  "matches": [
+    {
+      "away": "Senegal",
+      "confidence": 0.55,
+      "fixture_id": 1009,
+      "home": "Netherlands",
+      "predicted_score": "2-1",
+      "predicted_winner": "Netherlands",
+      "rationale": "Home side carries better form into the decisive group fixture."
+    },
+    {
+      "away": "Iran",
+      "confidence": 0.55,
+      "fixture_id": 1010,
+      "home": "USA",
+      "predicted_score": "2-1",
+      "predicted_winner": "USA",
+      "rationale": "Home side carries better form into the decisive group fixture."
+    },
+    {
+      "away": "Croatia",
+      "confidence": 0.55,
+      "fixture_id": 1011,
+      "home": "Argentina",
+      "predicted_score": "2-1",
+      "predicted_winner": "Argentina",
+      "rationale": "Home side carries better form into the decisive group fixture."
+    },
+    {
+      "away": "Japan",
+      "confidence": 0.55,
+      "fixture_id": 1012,
+      "home": "Mexico",
+      "predicted_score": "2-1",
+      "predicted_winner": "Mexico",
+      "rationale": "Home side carries better form into the decisive group fixture."
+    }
+  ],
+  "model": "mock"
+}

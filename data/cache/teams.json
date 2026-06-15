@@ -1,0 +1,98 @@
+[
+  {
+    "team": {
+      "country": "USA",
+      "id": 2384,
+      "logo": "https://media.api-sports.io/flags/us.svg",
+      "name": "USA"
+    },
+    "venue": {
+      "city": "USA",
+      "name": "USA National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Netherlands",
+      "id": 1118,
+      "logo": "https://media.api-sports.io/flags/ne.svg",
+      "name": "Netherlands"
+    },
+    "venue": {
+      "city": "Netherlands",
+      "name": "Netherlands National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Senegal",
+      "id": 13,
+      "logo": "https://media.api-sports.io/flags/se.svg",
+      "name": "Senegal"
+    },
+    "venue": {
+      "city": "Senegal",
+      "name": "Senegal National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Iran",
+      "id": 22,
+      "logo": "https://media.api-sports.io/flags/ir.svg",
+      "name": "Iran"
+    },
+    "venue": {
+      "city": "Iran",
+      "name": "Iran National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Argentina",
+      "id": 26,
+      "logo": "https://media.api-sports.io/flags/ar.svg",
+      "name": "Argentina"
+    },
+    "venue": {
+      "city": "Argentina",
+      "name": "Argentina National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Mexico",
+      "id": 16,
+      "logo": "https://media.api-sports.io/flags/me.svg",
+      "name": "Mexico"
+    },
+    "venue": {
+      "city": "Mexico",
+      "name": "Mexico National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Japan",
+      "id": 12,
+      "logo": "https://media.api-sports.io/flags/ja.svg",
+      "name": "Japan"
+    },
+    "venue": {
+      "city": "Japan",
+      "name": "Japan National Stadium"
+    }
+  },
+  {
+    "team": {
+      "country": "Croatia",
+      "id": 3,
+      "logo": "https://media.api-sports.io/flags/cr.svg",
+      "name": "Croatia"
+    },
+    "venue": {
+      "city": "Croatia",
+      "name": "Croatia National Stadium"
+    }
+  }
+]

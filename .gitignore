@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# NOTE: data/cache/ is committed on purpose — the GitHub Actions refresh job
+# writes the latest stats there and pushes them back to the repo.

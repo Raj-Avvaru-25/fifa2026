@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 111801,
+        "name": "Bart Verbruggen",
+        "number": 1,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 111802,
+        "name": "Virgil van Dijk",
+        "number": 4,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 111803,
+        "name": "Nathan Aké",
+        "number": 5,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 111804,
+        "name": "Frenkie de Jong",
+        "number": 21,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 111805,
+        "name": "Cody Gakpo",
+        "number": 11,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 111806,
+        "name": "Memphis Depay",
+        "number": 10,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 1118,
+      "name": "Netherlands"
+    }
+  }
+]

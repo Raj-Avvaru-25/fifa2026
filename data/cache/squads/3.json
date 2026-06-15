@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 301,
+        "name": "Dominik Livaković",
+        "number": 1,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 302,
+        "name": "Joško Gvardiol",
+        "number": 20,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 303,
+        "name": "Luka Modrić",
+        "number": 10,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 304,
+        "name": "Mateo Kovačić",
+        "number": 8,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 305,
+        "name": "Andrej Kramarić",
+        "number": 9,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 306,
+        "name": "Ante Budimir",
+        "number": 17,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 3,
+      "name": "Croatia"
+    }
+  }
+]

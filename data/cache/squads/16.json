@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 1601,
+        "name": "Guillermo Ochoa",
+        "number": 13,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 1602,
+        "name": "César Montes",
+        "number": 3,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 1603,
+        "name": "Edson Álvarez",
+        "number": 4,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 1604,
+        "name": "Luis Chávez",
+        "number": 14,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 1605,
+        "name": "Hirving Lozano",
+        "number": 22,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 1606,
+        "name": "Santiago Giménez",
+        "number": 9,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 16,
+      "name": "Mexico"
+    }
+  }
+]

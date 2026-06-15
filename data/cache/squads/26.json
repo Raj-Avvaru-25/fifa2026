@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 2601,
+        "name": "Emiliano Martínez",
+        "number": 23,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 2602,
+        "name": "Cuti Romero",
+        "number": 13,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 2603,
+        "name": "Nicolás Otamendi",
+        "number": 19,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 2604,
+        "name": "Enzo Fernández",
+        "number": 24,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 2605,
+        "name": "Lionel Messi",
+        "number": 10,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 2606,
+        "name": "Julián Álvarez",
+        "number": 9,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 26,
+      "name": "Argentina"
+    }
+  }
+]

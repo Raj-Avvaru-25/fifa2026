@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 1201,
+        "name": "Zion Suzuki",
+        "number": 1,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 1202,
+        "name": "Ko Itakura",
+        "number": 22,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 1203,
+        "name": "Wataru Endo",
+        "number": 6,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 1204,
+        "name": "Hidemasa Morita",
+        "number": 13,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 1205,
+        "name": "Kaoru Mitoma",
+        "number": 11,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 1206,
+        "name": "Takefusa Kubo",
+        "number": 20,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 12,
+      "name": "Japan"
+    }
+  }
+]

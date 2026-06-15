@@ -1,0 +1,58 @@
+[
+  {
+    "players": [
+      {
+        "age": 26,
+        "id": 238401,
+        "name": "Matt Turner",
+        "number": 1,
+        "photo": "",
+        "position": "Goalkeeper"
+      },
+      {
+        "age": 26,
+        "id": 238402,
+        "name": "Sergiño Dest",
+        "number": 2,
+        "photo": "",
+        "position": "Defender"
+      },
+      {
+        "age": 26,
+        "id": 238403,
+        "name": "Tyler Adams",
+        "number": 4,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 238404,
+        "name": "Weston McKennie",
+        "number": 8,
+        "photo": "",
+        "position": "Midfielder"
+      },
+      {
+        "age": 26,
+        "id": 238405,
+        "name": "Christian Pulisic",
+        "number": 10,
+        "photo": "",
+        "position": "Attacker"
+      },
+      {
+        "age": 26,
+        "id": 238406,
+        "name": "Folarin Balogun",
+        "number": 9,
+        "photo": "",
+        "position": "Attacker"
+      }
+    ],
+    "team": {
+      "id": 2384,
+      "name": "USA"
+    }
+  }
+]

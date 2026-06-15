@@ -1,0 +1,434 @@
+[
+  {
+    "fixture": {
+      "date": "2026-06-09T16:21:49.021038+00:00",
+      "id": 1001,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Netherlands",
+        "name": "Netherlands National Stadium"
+      }
+    },
+    "goals": {
+      "away": 0,
+      "home": 3
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/flags/ir.svg",
+        "name": "Iran",
+        "winner": false
+      },
+      "home": {
+        "id": 1118,
+        "logo": "https://media.api-sports.io/flags/ne.svg",
+        "name": "Netherlands",
+        "winner": true
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-09T16:21:49.021038+00:00",
+      "id": 1002,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "USA",
+        "name": "USA National Stadium"
+      }
+    },
+    "goals": {
+      "away": 1,
+      "home": 2
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/flags/se.svg",
+        "name": "Senegal",
+        "winner": false
+      },
+      "home": {
+        "id": 2384,
+        "logo": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA",
+        "winner": true
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-10T16:21:49.021038+00:00",
+      "id": 1003,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Argentina",
+        "name": "Argentina National Stadium"
+      }
+    },
+    "goals": {
+      "away": 0,
+      "home": 2
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/flags/me.svg",
+        "name": "Mexico",
+        "winner": false
+      },
+      "home": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/flags/ar.svg",
+        "name": "Argentina",
+        "winner": true
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-10T16:21:49.021038+00:00",
+      "id": 1004,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Croatia",
+        "name": "Croatia National Stadium"
+      }
+    },
+    "goals": {
+      "away": 1,
+      "home": 1
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/flags/ja.svg",
+        "name": "Japan",
+        "winner": false
+      },
+      "home": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/flags/cr.svg",
+        "name": "Croatia",
+        "winner": false
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-11T16:21:49.021038+00:00",
+      "id": 1005,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Netherlands",
+        "name": "Netherlands National Stadium"
+      }
+    },
+    "goals": {
+      "away": 1,
+      "home": 2
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 2384,
+        "logo": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA",
+        "winner": false
+      },
+      "home": {
+        "id": 1118,
+        "logo": "https://media.api-sports.io/flags/ne.svg",
+        "name": "Netherlands",
+        "winner": true
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-11T16:21:49.021038+00:00",
+      "id": 1006,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Senegal",
+        "name": "Senegal National Stadium"
+      }
+    },
+    "goals": {
+      "away": 1,
+      "home": 1
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/flags/ir.svg",
+        "name": "Iran",
+        "winner": false
+      },
+      "home": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/flags/se.svg",
+        "name": "Senegal",
+        "winner": false
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-12T16:21:49.021038+00:00",
+      "id": 1007,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Argentina",
+        "name": "Argentina National Stadium"
+      }
+    },
+    "goals": {
+      "away": 0,
+      "home": 2
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/flags/ja.svg",
+        "name": "Japan",
+        "winner": false
+      },
+      "home": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/flags/ar.svg",
+        "name": "Argentina",
+        "winner": true
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-12T16:21:49.021038+00:00",
+      "id": 1008,
+      "status": {
+        "long": "Match Finished",
+        "short": "FT"
+      },
+      "venue": {
+        "city": "Mexico",
+        "name": "Mexico National Stadium"
+      }
+    },
+    "goals": {
+      "away": 2,
+      "home": 0
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "away": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/flags/cr.svg",
+        "name": "Croatia",
+        "winner": true
+      },
+      "home": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/flags/me.svg",
+        "name": "Mexico",
+        "winner": false
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-17T21:21:49.021038+00:00",
+      "id": 1009,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "venue": {
+        "city": "Netherlands",
+        "name": "Netherlands National Stadium"
+      }
+    },
+    "goals": {
+      "away": null,
+      "home": null
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 3"
+    },
+    "teams": {
+      "away": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/flags/se.svg",
+        "name": "Senegal",
+        "winner": null
+      },
+      "home": {
+        "id": 1118,
+        "logo": "https://media.api-sports.io/flags/ne.svg",
+        "name": "Netherlands",
+        "winner": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-17T21:21:49.021038+00:00",
+      "id": 1010,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "venue": {
+        "city": "USA",
+        "name": "USA National Stadium"
+      }
+    },
+    "goals": {
+      "away": null,
+      "home": null
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 3"
+    },
+    "teams": {
+      "away": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/flags/ir.svg",
+        "name": "Iran",
+        "winner": null
+      },
+      "home": {
+        "id": 2384,
+        "logo": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA",
+        "winner": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-18T21:21:49.021038+00:00",
+      "id": 1011,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "venue": {
+        "city": "Argentina",
+        "name": "Argentina National Stadium"
+      }
+    },
+    "goals": {
+      "away": null,
+      "home": null
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 3"
+    },
+    "teams": {
+      "away": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/flags/cr.svg",
+        "name": "Croatia",
+        "winner": null
+      },
+      "home": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/flags/ar.svg",
+        "name": "Argentina",
+        "winner": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "date": "2026-06-18T21:21:49.021038+00:00",
+      "id": 1012,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "venue": {
+        "city": "Mexico",
+        "name": "Mexico National Stadium"
+      }
+    },
+    "goals": {
+      "away": null,
+      "home": null
+    },
+    "league": {
+      "name": "World Cup",
+      "round": "Group Stage - 3"
+    },
+    "teams": {
+      "away": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/flags/ja.svg",
+        "name": "Japan",
+        "winner": null
+      },
+      "home": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/flags/me.svg",
+        "name": "Mexico",
+        "winner": null
+      }
+    }
+  }
+]
