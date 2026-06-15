@@ -76,15 +76,23 @@ def run(*, with_ai: bool = False, use_mock: bool = False, force_squads: bool = F
             use_mock = True
 
     source = "mock" if use_mock else "api-football"
-    print(f"→ Refreshing {config.TOURNAMENT_NAME} from: {source}")
 
     # --- Stats (cheap: ~3 calls when live) ---------------------------------
+    # Try live first; if the API errors (bad plan/season, quota, outage) fall
+    # back to mock so the refresh always succeeds and the app always renders.
+    if not use_mock:
+        try:
+            teams = client.teams()
+            standings = client.standings()
+            fixtures = client.fixtures()
+        except APIFootballError as exc:
+            print(f"⚠️  API-Football error: {exc}\n    Falling back to mock data.", file=sys.stderr)
+            use_mock = True
+            source = "mock (live data unavailable)"
     if use_mock:
         teams, standings, fixtures = mock.teams(), mock.standings(), mock.fixtures()
-    else:
-        teams = client.teams()
-        standings = client.standings()
-        fixtures = client.fixtures()
+
+    print(f"→ Refreshing {config.TOURNAMENT_NAME} from: {source}")
 
     store.write_resource("teams", teams)
     store.touch_resource(meta, "teams")
